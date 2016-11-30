@@ -1,5 +1,4 @@
-# luebeck
-Vorlesung Signalverarbeitung und Codierung in Cochlea-lmplantaten
+# Vorlesung Signalverarbeitung und Codierung in Cochlea-lmplantaten
 
 Diese Vorlesung ist ein interaktives Jupyter Notebook, verfügbar unter https://github.com/strahl/luebeck
 
